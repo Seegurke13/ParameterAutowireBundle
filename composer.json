@@ -1,0 +1,17 @@
+{
+    "name": "seegurke13/parameter-autowire-bundle",
+    "type": "symfony-bundle",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jerome Trope",
+            "email": "jerometrope@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "seegurke13\\ParameterAutowireBundle": "src/"
+        }
+    },
+    "require": {}
+}
