@@ -10,7 +10,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "seegurke13\\ParameterAutowireBundle": "src/"
+            "seegurke13\\ParameterAutowireBundle\\": "src/"
         }
     },
     "require": {}
