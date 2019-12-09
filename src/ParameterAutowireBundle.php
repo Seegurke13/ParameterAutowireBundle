@@ -1,10 +1,10 @@
 <?php
 
 
-namespace ParameterAutowireBundle;
+namespace Seegurke13\ParameterAutowireBundle;
 
 
-use ParameterAutowireBundle\DependencyInjection\ParameterAutowirePass;
+use Seegurke13\ParameterAutowireBundle\DependencyInjection\ParameterAutowirePass;
 use Symfony\Component\DependencyInjection\Compiler\PassConfig;
 use Symfony\Component\DependencyInjection\ContainerBuilder;
 use Symfony\Component\HttpKernel\Bundle\Bundle;

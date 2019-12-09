@@ -1,7 +1,7 @@
 <?php
 
 
-namespace ParameterAutowireBundle\DependencyInjection;
+namespace Seegurke13\ParameterAutowireBundle\DependencyInjection;
 
 
 use Symfony\Component\DependencyInjection\Argument\ArgumentInterface;
